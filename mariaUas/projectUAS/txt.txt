@@ -1,0 +1,2 @@
+tugas yang saya buat yaitu laundry dan di dalamnya ada nama pelanggan, no telp, jenis cucian, harga/kg, berat, total, bayar dan bagian buttomnya ada batal,hapus dan transaksi.
+untuk semuanya bisa dijalankan kecuali transasksinya error, tapi semuanya bisa diajalankan.
